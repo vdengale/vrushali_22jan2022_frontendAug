@@ -1,5 +1,17 @@
+
+               HTML and CSS
+
 1.What are block elements? 
 2.What were the new tags/elements brought in HTML5?
 3.What is the difference between Margin and padding? 
 4.Is padding included in the element? 
 5.What types of selectors are used in CSS?
+
+
+               Javascript
+1.What is the use of filter, map, reduce ?
+2.Difference between map and for loop
+3.Difference between slice and splice
+4.Difference between Standard function and Arrow Function
+5.What is ES6?
+6.Oops concept
